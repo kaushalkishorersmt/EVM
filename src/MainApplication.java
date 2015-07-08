@@ -12,7 +12,7 @@ public class MainApplication {
 			controlUnit.setVote(1,1,1);
 			controlUnit.printResult();
 			
-			System.out.println(" All voters has given the votes now final status ..." ); 
+			System.out.println(" All voters has given the votes now final status .." ); 
 			controlUnit.setVote(3,1,1);
 			controlUnit.printResult();
 			
